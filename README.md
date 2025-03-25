@@ -1,29 +1,35 @@
-# Cadastro de Instrumentos Musicais
+# Gerência de Instrumentos Musicais
+Este projeto em **C** permite o cadastro, listagem, alteração e remoção de instrumentos musicais utilizando uma **lista encadeada**.
 
-Este projeto em C permite o cadastro, listagem, alteração e remoção de instrumentos musicais em uma lista encadeada.
 
-### Funcionalidades
+## 🎵 Funcionalidades
+✅ **Listagem de Instrumentos** → Veja todos os instrumentos cadastrados.  
+✅ **Cadastro de Novo Instrumento** → Adicione novos instrumentos à lista.  
+✅ **Alteração de Instrumento** → Modifique o nome, quantidade ou preço de um instrumento existente.  
+✅ **Remoção de Instrumento** → Exclua instrumentos da lista.  
 
-**1. Listagem de Instrumentos:** Para a visualização dos instrumentos cadastrados.
-
-**2. Cadastro de Novo Instrumento:** Adicione novos instrumentos à lista.
-
-**3. Alteração de Instrumento:** Modifique o nome, quantidade ou preço de um instrumento existente.
-
-**4. Remoção de Instrumento:** Remova instrumentos da lista.
-
-### Rodando na prática:
-
+## 🎥 Demonstração
+🔗 Confira o projeto rodando na prática:  
 https://github.com/Otavio088/Cadastro-Instrumentos/assets/124527969/8f4204ef-3c0c-4a9a-859e-191ae00b1fcf
 
-### IDE
+## 💻 IDE Utilizada
+Este projeto foi desenvolvido utilizando a **IDE Dev-C++**, que oferece suporte ao desenvolvimento em **C e C++**, permitindo edição de código, depuração, compilação e gerenciamento de projetos.
 
-Este projeto foi desenvolvido utilizando a IDE Dev-C++, uma ferramenta que oferece suporte ao desenvolvimento 
-em linguagem C e C++, fornecendo recursos como edição de código, depuração, compilação e gerenciamento de projetos.
+## 🛠️ Como Executar no Dev-C++
+### Passo a Passo
+1️⃣ **Baixe e instale o Dev-C++** caso ainda não tenha: [Baixar Dev-C++](https://sourceforge.net/projects/orwelldevcpp/)  
 
-### Contribuição
+2️⃣ **Clone este repositório** ou baixe os arquivos manualmente:  
+```bash
+ git clone https://github.com/Otavio088/gerenciar-instrumentos.git
+```
+3️⃣ **Abra o Dev-C++** e vá em `File` → `Open Project or File`.
 
-Contribuições são bem-vindas! Sinta-se à vontade para criar pull requests.
+4️⃣ **Selecione o arquivo principal do projeto (`.c`)**.
 
-### Autor
-Desenvolvido por **Otávio Augusto de Melo Ribeiro**.
+5️⃣ **Compile e execute** clicando no botão **"Run"** ou pressione `F9`.
+
+✅ Pronto! Agora você pode testar o sistema de cadastro de instrumentos musicais. 🎸🎻🎷
+
+##
+🚀 Desenvolvido por **Otávio Augusto de Melo Ribeiro**.
