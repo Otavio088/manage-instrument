@@ -21,7 +21,7 @@ Este projeto foi desenvolvido utilizando a **IDE Dev-C++**, que oferece suporte 
 
 2️⃣ **Clone este repositório** ou baixe os arquivos manualmente:  
 ```bash
- git clone https://github.com/Otavio088/gerenciar-instrumentos.git
+ git clone https://github.com/Otavio088/manage-instrument.git
 ```
 3️⃣ **Abra o Dev-C++** e vá em `File` → `Open Project or File`.
 
